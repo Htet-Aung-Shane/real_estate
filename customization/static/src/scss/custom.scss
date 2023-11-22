@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'YesevaOne-Regular';
+    src: url(../fonts/YesevaOne-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Montserrat-VariableFont_wght';
+    src: url(../fonts/Montserrat-VariableFont_wght.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+.w-25 {
+    width: 10% !important;
+}
+.fa{
+    margin-top: 2%;
+}
+p,li,a{
+    font-family: 'Montserrat-VariableFont_wght',sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'YesevaOne-Regular',sans-serif;
+}
+
+.s_website_form_send{
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+}
