@@ -10,6 +10,18 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: 'Pacifio';
+    src: url(../fonts/Pacifico-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'DancingScript';
+    src: url(../fonts/DancingScript-VariableFont_wght.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
 .w-25 {
     width: 10% !important;
 }
@@ -28,4 +40,23 @@ h1,h2,h3,h4,h5,h6{
     padding-right: 30px;
     padding-bottom: 20px;
     padding-left: 30px;
+}
+
+.custom-btn{
+    padding: 1.5rem 1rem;
+}
+.btn{
+    padding: 1rem;
+}
+.btn-nopadding{
+    padding: 0rem !important;
+    font-family: 'Pacifio',sans-serif;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
 }

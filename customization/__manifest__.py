@@ -7,6 +7,9 @@
     'installable': True,
     'auto_install': False,
     'application': True,
+    # "data":[
+    #     'views/estate_footer.xml',
+    # ],
     'assets':{
         'web.assets_frontend': [
             "/customization/static/src/scss/custom.scss",

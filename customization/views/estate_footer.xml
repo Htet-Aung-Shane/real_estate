@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <data noupdate="1">
+        <template id="custom_footer" name="custom_footer" inherit_id="website.layout">
+            
+        </template>
+        
+    
+    </data>
+    
+
+</odoo>
