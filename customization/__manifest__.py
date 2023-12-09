@@ -1,6 +1,6 @@
 {
     'name' : 'Theme Customization',
-    'description' : 'Movies Website Hosted By MT Tech',
+    'description' : 'Customizing Real Estate Theme For Developed By MT Tech',
     'depends' : ['base','contacts'],
     'category': 'Customization',
     'author': 'Htet Aung Shane',

@@ -52,7 +52,9 @@ h1,h2,h3,h4,h5,h6{
     padding: 0rem !important;
     font-family: 'Pacifio',sans-serif;
 }
-
+.fa.rounded-circle, .fa.rounded-empty-circle, .fa.rounded, .fa.rounded-0, .fa.rounded-leaf, .fa.img-thumbnail, .fa.shadow{
+    border: 1px solid;
+}
 .material-symbols-outlined {
   font-variation-settings:
   'FILL' 0,
